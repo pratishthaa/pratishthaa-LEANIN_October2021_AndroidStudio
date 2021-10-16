@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">snapsign</string>
+    <string name="phone">Use phone number</string>
+    <string name="login">
+    Already have an Account <b>Log in.</b>
+    </string>
+</resources>
